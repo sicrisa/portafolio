@@ -1,17 +1,5 @@
-#  <svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" style="background-color: black;"> 
-  <defs>
-    <pattern id="binary" width="10" height="10" patternUnits="userSpaceOnUse">
-      <text x="0" y="10" font-size="10" fill="blue" font-family="monospace">01</text>
-    </pattern>
-  </defs>
-  <rect width="100%" height="100%" fill="url(#binary)" /> 
-  <text x="50%" y="40%" fill="white" font-size="40" font-family="Arial" text-anchor="middle" alignment-baseline="middle">
-    👋 ¡Hola!
-  </text>
-  <text x="50%" y="60%" fill="white" font-size="30" font-family="Arial" text-anchor="middle" alignment-baseline="middle">
-    Soy Silvia Sánchez
-  </text>
-  </svg>
+#   👋 ¡Hola!
+  
 
 Soy **Silvia Sánchez**, **Software Developer** especializada en el desarrollo de aplicaciones backend y frontend. Siempre dispuesta a afrontar nuevos desafíos, aprender constantemente y aportar soluciones innovadoras a cada proyecto en el que participo.
 
@@ -52,8 +40,8 @@ Soy una desarrolladora **proactiva** con enfoque en:
 ---
 
 ## 📫 **Contáctame**
-- 📧 **Email:** silvia.sanchez@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/silvia-sanchez](https://linkedin.com/in/silvia-sanchez)
+- 📧 **Email:** sanchezsilviacristina@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/silvia-sanchez](https://ar.linkedin.com/in/silvia-s%C3%A1nchez-23001427)
 - 🌍 **Portafolio:** [www.silviasanchez.dev](https://www.silviasanchez.dev)
 
 ---
